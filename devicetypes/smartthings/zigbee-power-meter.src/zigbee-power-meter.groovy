@@ -105,5 +105,3 @@ def configure() {
            zigbee.simpleMeteringPowerConfig() +
            zigbee.electricMeasurementPowerConfig()
 }
-
-
